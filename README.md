@@ -23,12 +23,12 @@ A modern React application that fetches and displays random user profiles with a
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Favour123/Careerex-api.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd <project-directory>
+cd api
 ```
 
 3. Install dependencies:
